@@ -3930,6 +3930,8 @@
         "stateMutability": "view",
         "type": "function"
       }
-    ]
-  }
-}
+    ],
+    "0x5e52748968d0052aE6ca0E125A649aC8bfeE2347": {
+  "name": "Smart Contract",
+  "abi": [
+    {
